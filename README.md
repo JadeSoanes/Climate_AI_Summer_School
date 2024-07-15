@@ -3,7 +3,7 @@ This repository contains learning and files from the Climate Change AI Summer Sc
 
 Split into the different lectures and lessons.
 
-Combining my love of the environment, sustainability and the natural world with learning AI and developing my python skills!
+Combining my love of the environment, __sustainability__ and the natural world with learning AI and developing my __python__ skills!
 
 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐
 
