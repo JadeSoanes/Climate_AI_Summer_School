@@ -18,6 +18,7 @@ Combining my love of the environment, __sustainability__ and the natural world w
 * There is a seperate folder for each week that has a tutorial attached.
 * Tutorials contained within Google Colab (.ipynb) files within each sub folder.
 * Colab files are from Climate Change AI, however my extra notes and learnings have been added.
+* Read through the files to explore and understand everything I have learned over the course of the summer school!
 
 ## Resources & References 👓
 
