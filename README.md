@@ -16,7 +16,7 @@ Combining my love of the environment, sustainability and the natural world with 
 ## How to Use This Repo 💻
 
 * There is a seperate folder for each week that has a tutorial attached.
-* Tutorials contained within Google Colab files within each sub folder.
+* Tutorials contained within Google Colab (.ipynb) files within each sub folder.
 * Colab files are from Climate Change AI, however my extra notes and learnings have been added.
 
 ## Resources & References 👓
