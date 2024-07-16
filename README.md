@@ -12,6 +12,7 @@ Combining my love of the environment, __sustainability__ and the natural world w
 
 * Session 1: Introductions
 * Session 2: AI for Agriculture, Forestry and Other Land Use
+* Session 3: AI for Biodiversity and Ecosystems
 
 ## How to Use This Repo 💻
 
@@ -26,4 +27,9 @@ Combining my love of the environment, __sustainability__ and the natural world w
 * Session 2 reference:
   
 Tingzon, I., & Mahesh, A. (2024). Land Use and Land Cover (LULC) Classification using Deep Learning [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11584954
+
+* Session 3 reference:
+
+Hamer, J., Laber, R., & Denton, T. (2023). Agile Modeling for Bioacoustic Monitoring [Tutorial]. In Conference on Neural Information Processing Systems. Climate Change AI. https://doi.org/10.5281/zenodo.11585179
+
 
