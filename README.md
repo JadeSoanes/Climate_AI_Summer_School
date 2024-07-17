@@ -7,19 +7,23 @@ Combining my love of the environment, __sustainability__ and the natural world w
 
 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐 🌐
 
-
-## Lessons & Topics 📚
-
-* Session 1: Introductions
-* Session 2: AI for Agriculture, Forestry and Other Land Use
-* Session 3: AI for Biodiversity and Ecosystems
-
 ## How to Use This Repo 💻
 
 * There is a seperate folder for each week that has a tutorial attached.
 * Tutorials contained within Google Colab (.ipynb) files within each sub folder.
 * Colab files are from Climate Change AI, however my extra notes and learnings have been added.
 * Read through the files to explore and understand everything I have learned over the course of the summer school!
+
+## Lessons & Topics 📚
+
+* __Session 1: Introductions__
+* __Session 2: AI for Agriculture, Forestry and Other Land Use.__
+
+Going through the process of training a deep learning model and applying it to automate the generation of LULC maps, leveraging tools like Pytorch and Google Earth Engine.
+
+* __Session 3: AI for Biodiversity and Ecosystems__
+
+Learning about bioacoustic monitoring using agile modeling techniques. Processing and embedding audio data about birds - which is an ideal task for AI as it would be tedious, time-consuming and difficult for a human!
 
 ## Resources & References 👓
 
