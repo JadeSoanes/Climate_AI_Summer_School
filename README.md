@@ -25,6 +25,11 @@ Going through the process of training a deep learning model and applying it to a
 
 Learning about bioacoustic monitoring using agile modeling techniques. Processing and embedding audio data about birds - which is an ideal task for AI as it would be tedious, time-consuming and difficult for a human!
 
+* __Session 4: AI for Social Sciences, Economics and Policy - Climate Innovation Policy__
+
+Lecture covered the policy and social side of climate and AI whilst the tutorial was on the topic of NLP Models for Climate Policy Analysis (Evidence Synthesis). Tutorial covered understanding the model pipeline for NLP applications in climate policy analysis and evaluating and visualising the models effectively.
+
+
 ## Resources & References 👓
 
 * Information on the summer school [here](https://www.climatechange.ai/events/summer_school2024)
