@@ -29,6 +29,9 @@ Learning about bioacoustic monitoring using agile modeling techniques. Processin
 
 Lecture covered the policy and social side of climate and AI whilst the tutorial was on the topic of NLP Models for Climate Policy Analysis (Evidence Synthesis). Tutorial covered understanding the model pipeline for NLP applications in climate policy analysis and evaluating and visualising the models effectively.
 
+* __Session 5: AI for Climate Science__
+The lecture explained the fundementals of cliate science - what is is and why climate change is such a huge issue. The tutorial went through one possible application of machine learning; predicting the Niño3.4 index—a key indicator of El Niño events—using historical SST data. The tutorial went through inear regression, random forests, and CNNs and the impact of training on different historical periods on model performance and emphasizes the importance of data quality and model selection in climate forecasting.
+
 
 ## Resources & References 👓
 
