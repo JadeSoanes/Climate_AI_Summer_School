@@ -34,6 +34,11 @@ Lecture covered the policy and social side of climate and AI whilst the tutorial
 The lecture explained the fundementals of cliate science - what is is and why climate change is such a huge issue. The tutorial went through one possible application of machine learning; predicting the Niño3.4 index—a key indicator of El Niño events—using historical SST data. The tutorial went through inear regression, random forests, and CNNs and the impact of training on different historical periods on model performance and emphasizes the importance of data quality and model selection in climate forecasting.
 
 
+* __Session 6: AI for Monitoring, Reporting, and Verification__
+
+
+
+
 ## Resources & References 👓
 
 * Information on the summer school [here](https://www.climatechange.ai/events/summer_school2024)
@@ -44,5 +49,14 @@ Tingzon, I., & Mahesh, A. (2024). Land Use and Land Cover (LULC) Classification 
 * Session 3 reference:
 
 Hamer, J., Laber, R., & Denton, T. (2023). Agile Modeling for Bioacoustic Monitoring [Tutorial]. In Conference on Neural Information Processing Systems. Climate Change AI. https://doi.org/10.5281/zenodo.11585179
+
+* Session 6 references:
+
+  Original Author:
+
+André Ferreira, TransitionZero, andre@transitionzero.org
+Updated by:
+
+Isabelle Tingzon, issa@climatechange.ai
 
 
