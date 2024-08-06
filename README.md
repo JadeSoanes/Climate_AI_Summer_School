@@ -17,6 +17,10 @@ Combining my love of the environment, __sustainability__ and the natural world w
 ## Lessons & Topics 📚
 
 * __Session 1: Introductions__
+
+  No tutorial for this one - just an introduction to the course, the basic science behind climate change and an introduction to ML and AI.
+
+
 * __Session 2: AI for Agriculture, Forestry and Other Land Use.__
 
 Going through the process of training a deep learning model and applying it to automate the generation of LULC maps, leveraging tools like Pytorch and Google Earth Engine.
@@ -36,8 +40,12 @@ The lecture explained the fundementals of cliate science - what is is and why cl
 
 * __Session 6: AI for Monitoring, Reporting, and Verification__
 
+A tutorial monitoring coal power plants using a dataset of coal power plants' emissions, including images, metadata and labels. In the tutorial I went through the steps of how to monitor coal power plants, leveraging satellite imagery and computer vision models
 
 
+* __Session 7: AI for Social Sciences, Economics and Policy, Part II__
+
+No tutorial for this session, instead just a lecture covering how greenhouse gas emissions and climate change will influence the environment (temperature, rainfall, cloud cover, soil moisture) and how will those changes impact on human wellbeing?
 
 ## Resources & References 👓
 
