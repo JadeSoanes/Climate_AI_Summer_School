@@ -47,6 +47,12 @@ A tutorial monitoring coal power plants using a dataset of coal power plants' em
 
 No tutorial for this session, instead just a lecture covering how greenhouse gas emissions and climate change will influence the environment (temperature, rainfall, cloud cover, soil moisture) and how will those changes impact on human wellbeing?
 
+
+* __Session 8: Ethics, Impacts, and Regulation of AI__
+
+No tutorial for this session, instead two lectures covering the ethics and regulation on AI. Included an interesting deep dive on the EU's AI Act.
+
+
 ## Resources & References 👓
 
 * Information on the summer school [here](https://www.climatechange.ai/events/summer_school2024)
@@ -67,4 +73,13 @@ Updated by:
 
 Isabelle Tingzon, issa@climatechange.ai
 
+* Session 8 references:
+
+Papers referenced in the lecture -
+
+Philipp Hacker, Andreas Engel, Marco Mauer, Regulating ChatGPT and other Large Generative Models, (2023) ACM Conference on Fairness, Accountability and Transparency (FAccT ‘23) 1112-1123
+
+Philipp Hacker, The European AI Liability Directives, (2023) 51 Computer Law & Security Review, Art. 105871
+
+Philipp Hacker, Sustainable AI Regulation, (2024) 61 Common Market Law Review 345
 
