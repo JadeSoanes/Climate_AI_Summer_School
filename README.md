@@ -57,6 +57,11 @@ No tutorial for this session, instead two lectures covering the ethics and regul
 
 The lecture went through the role of data and AI for climate change mitigation and adaptation in cities. There were three accompanying tutorials; Building Load Forecasting with Machine Learning, using CityLearn and Building Control with RL using BOPTEST.
 
+
+* __Session 10: GHG Impact Assessment of AI__
+
+There was no tutorial for this session, instead there were two lectures on more 'soft' aspects of cliamet and AI; The GHG Impact Assessment of AI and Responsible AI and Sustainability.
+
 ## Resources & References 👓
 
 * Information on the summer school [here](https://www.climatechange.ai/events/summer_school2024)
