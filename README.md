@@ -53,6 +53,10 @@ No tutorial for this session, instead just a lecture covering how greenhouse gas
 No tutorial for this session, instead two lectures covering the ethics and regulation on AI. Included an interesting deep dive on the EU's AI Act.
 
 
+* __Session 9: AI for Buildings & Cities__
+
+The lecture went through the role of data and AI for climate change mitigation and adaptation in cities. There were three accompanying tutorials; Building Load Forecasting with Machine Learning, using CityLearn and Building Control with RL using BOPTEST.
+
 ## Resources & References 👓
 
 * Information on the summer school [here](https://www.climatechange.ai/events/summer_school2024)
@@ -82,4 +86,19 @@ Philipp Hacker, Andreas Engel, Marco Mauer, Regulating ChatGPT and other Large G
 Philipp Hacker, The European AI Liability Directives, (2023) 51 Computer Law & Security Review, Art. 105871
 
 Philipp Hacker, Sustainable AI Regulation, (2024) 61 Common Market Law Review 345
+
+* Session 9 references:
+
+
+[1] Blum, D., Arroyo, J., Huang, S., Drgona, J., Jorissen, F., Taxt Walnum, H., Yan, C., Benne, K., Vrabie, D., Wetter, M., and Helsen, L. Building Optimization Testing Framework (BOPTEST) for Simulation- Based Benchmarking of Control Strategies in Buildings. Journal of Building Performance Simulation 14, 5 (2021), 586–610. https://doi.org/10.1080/19401493.2021.1986574
+
+[2] Arroyo, J., Manna, C., Spiessens, F., and Helsen, L. An OpenAI-Gym environment for the Building Optimization Testing (BOPTEST) framework. In Proceedings of the 17th IBPSA Conference (Bruges, Belgium, September 2021) https://doi.org/10.26868/25222708.2021.30380
+
+[3] Drgona, J., Arroyo, J., Cupeiro Figueroa, I., Blum, D., Arendt, K., Kim, D.,Ollé, E. P., Oravec, J., Wetter, M., Vrabie, D. L., and Helsen, L. All you need to know about model predictive control for buildings. Annual Reviews in Control 50 (2020), 190–232. https://doi.org/10.1016/j.arcontrol.2020.09.001
+
+[4] Vázquez-Canteli, J. R., and Nagy, Z. Reinforcement learning for demand response: A review of algorithms and modeling techniques. Applied energy 235 (2019), 1072–1089. https://doi.org/10.1016/j.apenergy.2018.11.002
+
+[5] Chen, B., Cai, Z., and Bergés, M. Gnu-RL: A Practical and Scalable Reinforcement Learning Solution for Building HVAC Control Using a Differentiable MPC Policy. Frontiers in Built Environment 6 (2020). https://doi.org/10.3389/fbuil.2020.562239
+
+[6] Sutton, R. S., and Barto, A. G. Reinforcement Learning: An Introduction, second ed. The MIT Press, 2018.
 
