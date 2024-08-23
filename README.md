@@ -62,6 +62,10 @@ The lecture went through the role of data and AI for climate change mitigation a
 
 There was no tutorial for this session, instead there were two lectures on more 'soft' aspects of cliamet and AI; The GHG Impact Assessment of AI and Responsible AI and Sustainability.
 
+* __Session 11: AI For Power & Energy Systems__
+
+This lecture and tutorial empasised the importnat of energy systems in tackling climate change. The tutorial specifically went through an exercise using artificial intelligence for solving optimal power flow problems in power grids, focusing on a simple neural network model implemented with PyTorch. 
+
 ## Resources & References 👓
 
 * Information on the summer school [here](https://www.climatechange.ai/events/summer_school2024)
