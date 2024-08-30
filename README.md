@@ -66,6 +66,11 @@ There was no tutorial for this session, instead there were two lectures on more 
 
 This lecture and tutorial empasised the importnat of energy systems in tackling climate change. The tutorial specifically went through an exercise using artificial intelligence for solving optimal power flow problems in power grids, focusing on a simple neural network model implemented with PyTorch. 
 
+
+* __Session 13: Climate, Health, and AI__
+
+There was no tutorial for this session, instead the focus was a lecture on the topic of climate health and AI. The lecture had a specific focus on the impact of heatwaves on health and how health and climate risks differ in severity for different groups.
+
 ## Resources & References 👓
 
 * Information on the summer school [here](https://www.climatechange.ai/events/summer_school2024)
