@@ -66,6 +66,9 @@ There was no tutorial for this session, instead there were two lectures on more 
 
 This lecture and tutorial empasised the importnat of energy systems in tackling climate change. The tutorial specifically went through an exercise using artificial intelligence for solving optimal power flow problems in power grids, focusing on a simple neural network model implemented with PyTorch. 
 
+* __Session 12: AI for Transport__
+
+This lecture and tutorial explored the links between transport, climate and AI. The tutorial uses linear regression and a graph neural network to model the relationship between POI densities and trip end densities using data from bike sharing services in Shenzhen.
 
 * __Session 13: Climate, Health, and AI__
 
@@ -115,4 +118,15 @@ Philipp Hacker, Sustainable AI Regulation, (2024) 61 Common Market Law Review 34
 [5] Chen, B., Cai, Z., and Bergés, M. Gnu-RL: A Practical and Scalable Reinforcement Learning Solution for Building HVAC Control Using a Differentiable MPC Policy. Frontiers in Built Environment 6 (2020). https://doi.org/10.3389/fbuil.2020.562239
 
 [6] Sutton, R. S., and Barto, A. G. Reinforcement Learning: An Introduction, second ed. The MIT Press, 2018.
+
+
+
+* Session 12 references:
+
+
+Willing, Christoph, Konstantin Klemmer, Tobias Brandt, and Dirk Neumann. “Moving in Time and Space – Location Intelligence for Carsharing Decision Support.” Decision Support Systems 99 (July 2017): 75–85. https://doi.org/10.1016/j.dss.2017.05.005.
+
+Wagner, Felix, Nikola Milojevic-Dupont, Lukas Franken, Aicha Zekar, Ben Thies, Nicolas Koch, and Felix Creutzig. “Using Explainable Machine Learning to Understand How Urban Form Shapes Sustainable Mobility.” Transportation Research Part D: Transport and Environment 111 (October 2022): 103442. https://doi.org/10.1016/j.trd.2022.103442.
+
+Geng X, Li Y, Wang L, Zhang L, Yang Q, Ye J, Liu Y (2019) Spatiotemporal multigraph convolution network for ride-hailing demand forecasting. In: Proceedings of the AAAI conference on artificial intelligence, vol 33, pp 3656–3663
 
